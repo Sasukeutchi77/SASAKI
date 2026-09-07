@@ -1,0 +1,6 @@
+{
+  "name": "FasoInfo",
+  "description": "Plateforme web moderne d'actualités et de journalisme social pour le Burkina Faso et l'Afrique",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
